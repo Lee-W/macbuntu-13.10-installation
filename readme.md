@@ -27,8 +27,8 @@ sudo ./macbuntu.sh
 ###LiHeiProPC font
 Install
 ```
-tar -zsvf LiHeiProPC.ttf.tat.gz
-mv LiHei\ Pro.ttf
+tar -zxvf LiHeiProPC.ttf.tat.gz
+sudo mv LiHei\ Pro.ttf /usr/share/fonts
 sudo fc-cache -v -f
 ```
 The installation is now finish.
