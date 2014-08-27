@@ -1,4 +1,7 @@
 #macbuntu 13.10  installation
+This repo is an old version.
+For macbuntu 14.04 installation, please refer to [Ubuntu-setup](https://github.com/Lee-W/Ubuntu-setup).
+The macbuntu 14.04 shell is under the folder sh.
 
 #DESCRIPTION
 ###macbuntu.sh
@@ -13,14 +16,15 @@ Disble the commands in line 6~10 and open the command in line 2~4.
 
 I didn't include last part of macbuntu(mac fonts)
 
+
 ###LiHeiProPC.ttf.tar.gz
 This is the mac font that I used
 
 #USAGE
 ###Use macbuntu.sh
 ``` shell
-git clone https://github.com/Lee-W/macbuntu-13.10-installation.git
-chmod +x macbiuntu.sh
+git clone https://github.com/Lee-W/macbuntu-13.10-installation
+chmod +x macbuntu.sh
 sudo ./macbuntu.sh
 ```
 
